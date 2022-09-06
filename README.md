@@ -1,2 +1,2 @@
 # AppSale
-API development using Arquitectura Hexagonal in Visual Studio with Sql Server and Postman
+API development using Arquitectura Simple Hexagonal in Visual Studio with Sql Server and Postman
