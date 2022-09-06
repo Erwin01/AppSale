@@ -1,0 +1,16 @@
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.exe
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.deps.json
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.runtimeconfig.json
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.runtimeconfig.dev.json
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.dll
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\ref\App.Sale.Domain.dll
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\bin\Debug\net5.0\App.Sale.Domain.pdb
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.dll
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\ref\App.Sale.Domain.dll
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.pdb
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.genruntimeconfig.cache
+C:\Development2022\ApplicationFull\Hexagonal Arquitecture\App.Sale.Domain\obj\Debug\net5.0\App.Sale.Domain.csproj.AssemblyReference.cache
